@@ -1,0 +1,13 @@
+{
+  "name": "mrz1277.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mrz1277/mrz1277.github.io",
+  "authors": [
+    "yakiyama-iMac <mrz1277@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "fitvids": "~1.1.0"
+  }
+}
