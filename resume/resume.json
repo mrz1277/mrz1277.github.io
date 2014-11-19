@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Jaesung Koo",
+    "label": "Programmer",
+    "picture": "https://dl.dropboxusercontent.com/u/9150331/profile.jpg",
+    "email": "mrz1277@gmail.com",
+    "phone": "+821056751505",
+    "summary": "",
+    "location": {
+      "city": "Seoul, Korea",
+      "countryCode": "KR"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "jason.koo.korea",
+        "url": "https://www.facebook.com/jason.koo.korea"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CONBUS",
+      "position": "Software Developer",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-20",
+      "summary": "CONBUS made an anonymous social network service for students which service like 'Yik Yak'.",
+      "highlights": []
+    },
+    {
+      "company": "CONBUS",
+      "position": "Software Developer",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-20",
+      "summary": "CONBUS made an anonymous social network service for students which service like 'Yik Yak'.",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "DB Mashup Contest 1st Prize",
+      "date": "2013-10-16",
+      "awarder": "Ministry of Science, ICT and Future Planning",
+      "summary": ""
+    },
+    {
+      "title": "SW Maestro Final 10 Pick",
+      "date": "2011-10-25",
+      "awarder": "Ministry of Knowledge Economy",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-End",
+      "level": "Experienced",
+      "keywords": [
+        "Angular.js",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Back-End",
+      "level": "Experienced",
+      "keywords": [
+        "Node.js"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "No problem at work and living :)"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Timelapse"
+      ]
+    },
+    {
+      "name": "Movie",
+      "keywords": [
+        "Matthew McConaughey"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Basketball", 
+        "Table Tennis"
+      ]
+    }
+  ]
+}
